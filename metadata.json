@@ -1,0 +1,6 @@
+{
+  "name": "Madrid Recicla",
+  "description": "Scans waste items in Madrid to identify correct sorting containers and uses your location to list nearby Puntos Limpios (specialized recycling points). Based on Comunidad de Madrid regulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
